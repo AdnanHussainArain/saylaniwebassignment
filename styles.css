@@ -1,0 +1,165 @@
+.container-fluid{
+    background-color: #316DC3;
+    height: 50px;
+}
+.headertext{
+    color: white;
+    margin-top: 15px;
+}
+ul{
+    list-style: none;
+    margin-bottom: 0;
+}  
+li{
+    display: inline-block;
+    padding: 0px 5px;
+}  
+img{
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+    margin-top: 15px;
+    
+}
+.button{
+    margin-top: 5px;
+}
+button{
+    margin-left:5px;
+    color: #427900;
+    padding: 5px 10px;
+    font-size: 11px;
+    
+}
+.header2{
+    background-color: #F7F8FA;
+    height: 4.5em;
+}
+.logo{
+    height: 3em;
+    width: 10em;
+    margin-left: 15px;
+    margin-top: 2px;
+}
+.navbar{
+    display: inline-block;
+    margin-left: 20em;
+    margin-top: 10px;
+}
+.navbtn{
+        
+        border-radius:32px;
+        display:inline-block;
+        cursor:pointer;
+        padding: 8px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .navbtn:hover{
+        background-color: #316DC3;
+    }
+    #carouselExampleControls{
+        height: 200px;
+    }
+.news{
+    margin: 5px auto;
+    background-color: #316DC3;
+    color: white;
+    padding: 2px 15px;
+}    
+.newsdate{
+    color: #5c9b10;
+}
+h2{
+    margin: 2em auto 5px auto;
+}   
+.introicon{
+margin: 5px auto;
+height: 3em;
+width: 3em;
+}
+.introducton{
+    background-color: #F7F8FA;
+}
+.introtext{
+color: grey;
+}
+.contribution{
+    background-color: #316DC3;
+    text-align: center;
+    color: white;
+    height: 17em;
+    padding-top: 1.5em;
+}
+.contribute{
+    text-align: center;
+}
+.contribute>img{
+    height: 3em;
+    width: 3em;
+}
+h5>span{
+    color: yellowgreen;
+}
+.contribute>h2{
+    margin-top: 1em;
+}
+.service{
+    padding: 15px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: white;
+}
+.service>img{
+    height: 4em;
+    width: 4em;
+    margin-bottom: 2em;
+}
+.services{
+    background-color: #F7F8FA;
+}
+.services-content{
+    padding: 20px;
+    width: 100%;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+.mission{
+    padding: 20px;
+    margin-left: 2em;
+    text-align: center;
+}
+.mission>img{
+    height: 2em;
+    width: 2em;
+}
+.upcoming{
+    text-align: justify;
+    padding: 5px 2em 2em 5px;
+}
+div>h3{
+margin-bottom: 1em;
+}
+/* .eventsnews>p{
+    padding: 5px 2em 2em 2em;
+    margin-left: 0px;
+} */
+.imagegallery>img{
+    height: 10em;
+    width:15em;
+    
+}
+.imagegallery{
+    text-align: center;
+    margin-bottom: 2em;
+}
+.contact{
+    padding-left: 0;
+}
+.bannerimg{
+    height: 30em;
+}
+#about{
+    margin-top: 20em;
+}
